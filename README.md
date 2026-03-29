@@ -1,6 +1,8 @@
 # Repositório para aulas YDUQS
 Bem-vindo(a) ao repositório oficial das aulas desenvolvidas para a YDUQS. Este espaço foi criado para organizar, versionar e compartilhar materiais relacionados às disciplinas, projetos e atividades acadêmicas.
 
+---
+
 📂 Estrutura do Repositório
 
 /notebooks → Códigos em Python e exemplos práticos.
@@ -11,6 +13,8 @@ Bem-vindo(a) ao repositório oficial das aulas desenvolvidas para a YDUQS. Este 
 
 /docs → Leituras complementares, artigos e resumos.
 
+---
+
 🎯 Objetivos
 
 Apoiar alunos e docentes no processo de ensino-aprendizagem.
@@ -18,6 +22,9 @@ Apoiar alunos e docentes no processo de ensino-aprendizagem.
 Promover acesso fácil e organizado aos materiais.
 
 Incentivar práticas de versionamento e colaboração no GitHub.
+
+---
+
 
 🚀 Como Usar
 
