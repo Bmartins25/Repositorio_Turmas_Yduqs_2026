@@ -35,13 +35,3 @@ print(f'Accuracy: {accuracy:.2f}%')
 
 
 
-
-
-
-
-
-
-
-
-
-
